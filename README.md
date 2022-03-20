@@ -28,7 +28,7 @@ The following procedures were followed to aadminister the analysis:
 * It also yielded a high_risk recall score of 0.62, which means that the modell is successful at identiying all high risk applicants 62% of the time.
 * Finally the model yields a F1 score of 0.02, which is due to the the large disparity between the efficacy of the precision and the recall tests.
 
-* The model yielded a low_risk precision score of 1.00, which means that the model accurately identifies a low risk applicants 100% of the time.
+* The model yielded a low_risk precision score of 1.00, which means that the model accurately identifies a low risk applicants 100% of the time. This is due to the large low_risk population. 
 * It also yielded a low_risk recall score of 0.65, which means that the modell is successful at identiying all low risk applicants 65% of the time.
 * Finally the model yields a F1 score of 0.79, which is significantly higher due to the relatively closer recall and precision scores.
 
