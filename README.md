@@ -16,13 +16,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **RandomOverSampler Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![NRS_01](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/NRS_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.6367, which means that the model is successful at accuratelly predicting the credit risk 64% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![NRS_02](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/NRS_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![NRS_03](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/NRS_03.png)
 
 * The model yielded a high_risk precision score of 0.01, which means that the model accurately identifies a high risk applicant 1% of the time.
 * It also yielded a high_risk recall score of 0.62, which means that the modell is successful at identiying all high risk applicants 62% of the time.
@@ -34,13 +34,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **SMOTE Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTE_01](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTE_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.6303, which means that the model is successful at acturatelly predicting the credit risk 63% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTE_02](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTE_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTE_03](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTE_03.png)
 
 * The model yielded a high_risk precision score of 0.01, which means that the model accurately identifies a high risk applicant 1% of the time.
 * It also yielded a high_risk recall score of 0.62, which means that the modell is successful at identiying all high risk applicants 62% of the time.
@@ -52,13 +52,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **ClusterCentroids Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![ClusterCentroids_01](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.5293, which means that the model is successful at accuratelly predicting the credit risk 53% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![ClusterCentroids_02](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![ClusterCentroids_03](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids_03.png)
 
 * The model yielded a high_risk precision score of 0.01, which means that the model accurately identifies a high risk applicant 1% of the time.
 * It also yielded a high_risk recall score of 0.61, which means that the modell is successful at identiying all high risk applicants 61% of the time.
@@ -70,13 +70,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **SMOTEENN Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTEENN_01](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.6248, which means that the model is successful at accuratelly predicting the credit risk 62% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTEENN_02](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![SMOTEENN_03](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_03.png)
 
 * The model yielded a high_risk precision score of 0.01, which means that the model accurately identifies a high risk applicant 1% of the time.
 * It also yielded a high_risk recall score of 0.71, which means that the modell is successful at identiying all high risk applicants 71% of the time.
@@ -88,13 +88,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **BalancedRandomForestClassifier Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![BalancedRandomForestClassifier_01](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForestClassifier_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.7878, which means that the model is successful at accuratelly predicting the credit risk 79% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![BalancedRandomForestClassifier_02](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForestClassifier_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![BalancedRandomForestClassifier_03](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/BalancedRandomForestClassifier_03.png)
 
 * The model yielded a high_risk precision score of 0.04, which means that the model accurately identifies a high risk applicant 4% of the time.
 * It also yielded a high_risk recall score of 0.67, which means that the modell is successful at identiying all high risk applicants 67% of the time.
@@ -106,13 +106,13 @@ The following procedures were followed to aadminister the analysis:
 
 ### **EasyEnsembleClassifier Model**
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![streets](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier_01.png)
 
 * The RandomOverSampler Model yielded a balanced accuracy score of 0.9254, which means that the model is successful at accuratelly predicting the credit risk 93% of the time. 
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![streets](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier_02.png)
 
-![streets](https://github.com/OmarQasem94/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streets.PNG)
+![streets](https://github.com/OmarQasem94/Credit_Risk_Analysis/blob/main/Images/EasyEnsembleClassifier_03.png)
 
 * The model yielded a high_risk precision score of 0.07, which means that the model accurately identifies a high risk applicant 7% of the time.
 * It also yielded a high_risk recall score of 0.91, which means that the modell is successful at identiying all high risk applicants 91% of the time.
